@@ -1,7 +1,2 @@
 // POO
 pub mod logic;
-
-
-
-
-
